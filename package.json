@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@types/bcryptjs": "^2.4.6",
-    "bcryptjs": "^3.0.3",
-    "next-auth": "^4.24.14"
-  }
-}
